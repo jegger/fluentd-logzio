@@ -1,0 +1,3 @@
+Forwareds logs comming from fluentbit to logz.io.
+
+You can pass your logzio token by setting the env-variable LOGZIO_TOKEN during docker run.
